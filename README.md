@@ -1,7 +1,7 @@
 # covidMedia
 Some Random Projects on Media Coverage of Covid-19
 
-## Exploring 
+## Improving Expected COVID Distributions by Race with Geographic Weighting
 ### Intuition
 We know that COVID-19 disproportionately affects marginalized racial groups. 
 However, comparing case and death rates by race to overall population fails to account for the geographical distribution of the pandemic. 
