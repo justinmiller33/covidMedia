@@ -19,11 +19,11 @@ The second chart shows the percent difference between the actual cases/deaths an
 The third chart shows the percent difference between the actual cases/deaths and the geographical adjusted expected counts. <br>
 (These are more representative of the true disparities and should be communicated)
 
-![](https://github.com/justinmiller33/covidMedia/blob/master/geographicAdjustedRace/september/septemberResults.png)
+![](https://github.com/justinmiller33/covidMedia/blob/master/geographicAdjustedRace/january/januaryResults.png)
 
 ### Takeaways
 The charts show how significant of an impact that geographical distribution has on our idea of COVID's racial impact. <br>
-In specific, the media's traditional view overstate's COVID's impact on hispanics, while grossly understating it's impact on Native American groups. 
+In specific, the media's traditional view overstate's COVID's impact on hispanics, while understating it's impact on Native American groups. 
 These results can be confirmed by intuition: Hispanic populations are much larger in hard-hit Southern/Western states while Native Groups are more common in the Plains Region. <br>
 
-Misrepresentations like these are why media accountability and diligence is crucial to proper representation of abstract data.
+Misrepresentations like these are why media accountability and diligence is crucial to proper representation of complex data.
